@@ -40,6 +40,8 @@
   Similarly you can enter any values and send to Blockchain as blocks and then by entering block number you can get original block value back. Now click on ‘Storage     Graph’ button to get below storage graph.
 
   ![p9](https://user-images.githubusercontent.com/104061649/185744553-24becd1a-6a19-4c1b-b5bb-310c1108534e.jpg)
+  
+  In above graph x-axis represents storage type and y-axis represents size of storage and in normal storage we store full transaction so its size will be huge and in propose work instead of storing full transaction block we will store only block so storage size will be reduced.
 
 
 

@@ -1,0 +1,2 @@
+python BlockchainNode.py
+pause
